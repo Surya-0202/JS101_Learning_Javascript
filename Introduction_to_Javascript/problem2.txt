@@ -1,0 +1,6 @@
+var name="Suryanarayan Dora"; 
+console.log(name)
+var name="Harekrishna Dora";
+console.log(name)
+var name="Gitanjali Dora";
+console.log(name)

@@ -1,0 +1,4 @@
+var name="Suryanarayan Dora";
+console.log(typeof(name))
+var age=23;
+console.log(typeof(age))
